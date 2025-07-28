@@ -1,0 +1,24 @@
+{
+  "title": "Our Blog",
+  "subtitle": "Exploring the Data Cosmos",
+  "description": "Currently preparing stellar content for our community...",
+  "stayTuned": "Stay tuned for insights, tutorials, and thought leadership from the Tetrad AI team.",
+  "ctaText": "Subscribe for Updates",
+  "upcomingArticles": [
+    {
+      "title": "The Future of AI in Business Intelligence",
+      "description": "Exploring how AI is revolutionizing BI and decision-making processes",
+      "icon": "fas fa-brain"
+    },
+    {
+      "title": "Building Scalable Data Pipelines: Best Practices",
+      "description": "A comprehensive guide to designing robust data infrastructure",
+      "icon": "fas fa-stream"
+    },
+    {
+      "title": "Power BI vs. Tableau: A Comprehensive Comparison",
+      "description": "In-depth analysis of the leading business intelligence platforms",
+      "icon": "fas fa-chart-bar"
+    }
+  ]
+}

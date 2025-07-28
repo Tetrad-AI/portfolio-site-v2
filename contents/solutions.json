@@ -1,0 +1,166 @@
+{
+  "title": "Our Solutions",
+  "description": "Transform your data landscape with our comprehensive suite of AI-powered solutions.",
+  "solutions": [
+    {
+      "id": "ai",
+      "title": "Artificial Intelligence",
+      "subtitle": "Unlock the power of intelligent automation",
+      "icon": "fas fa-robot",
+      "services": [
+        {
+          "name": "AI Application Development",
+          "description": "Custom AI solutions tailored to your business needs"
+        },
+        {
+          "name": "AI Model Training & Fine-tuning",
+          "description": "Optimized models for maximum performance"
+        },
+        {
+          "name": "Intelligent Automation",
+          "description": "Streamline operations with AI-driven processes"
+        }
+      ],
+      "technologies": [
+        "PyTorch",
+        "TensorFlow",
+        "LangChain",
+        "Hugging Face",
+        "Google Gemini",
+        "OpenAI GPT",
+        "RAG",
+        "Pinecone",
+        "Weaviate"
+      ]
+    },
+    {
+      "id": "web",
+      "title": "Web Development",
+      "subtitle": "Modern web applications that scale",
+      "icon": "fas fa-globe",
+      "services": [
+        {
+          "name": "AI-Integrated Web Applications",
+          "description": "Smart web solutions with embedded AI"
+        },
+        {
+          "name": "API Development & Integration",
+          "description": "Robust, scalable backend systems"
+        },
+        {
+          "name": "Cloud-Native Architecture",
+          "description": "Built for performance and reliability"
+        }
+      ],
+      "technologies": [
+        "FastAPI",
+        "Django",
+        "React",
+        "PostgreSQL",
+        "MongoDB",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Google Cloud Platform"
+      ]
+    },
+    {
+      "id": "data-engineering",
+      "title": "Data Engineering",
+      "subtitle": "Build robust data foundations",
+      "icon": "fas fa-cogs",
+      "services": [
+        {
+          "name": "Data Pipeline Development",
+          "description": "Automated, scalable data workflows"
+        },
+        {
+          "name": "Real-time Data Processing",
+          "description": "Stream processing for instant insights"
+        },
+        {
+          "name": "Data Lake & Warehouse Solutions",
+          "description": "Centralized data architecture"
+        },
+        {
+          "name": "ETL/ELT Automation",
+          "description": "Efficient data transformation processes"
+        }
+      ],
+      "technologies": [
+        "Apache Spark",
+        "Kafka",
+        "Delta Lake",
+        "Databricks",
+        "Snowflake",
+        "Apache Airflow",
+        "dbt"
+      ]
+    },
+    {
+      "id": "analytics",
+      "title": "Data Analytics",
+      "subtitle": "Transform data into actionable insights",
+      "icon": "fas fa-chart-line",
+      "services": [
+        {
+          "name": "Interactive Dashboards",
+          "description": "Real-time business intelligence"
+        },
+        {
+          "name": "Predictive Analytics",
+          "description": "Forecast trends and opportunities"
+        },
+        {
+          "name": "Process Automation",
+          "description": "Streamlined reporting workflows"
+        },
+        {
+          "name": "Custom Analytics Solutions",
+          "description": "Tailored to your KPIs"
+        }
+      ],
+      "technologies": [
+        "Python",
+        "R",
+        "SQL",
+        "Power BI",
+        "Tableau",
+        "Power Automate",
+        "Power Apps",
+        "Excel Advanced Analytics"
+      ]
+    },
+    {
+      "id": "power-bi",
+      "title": "Power BI Consulting",
+      "subtitle": "Maximize your Microsoft ecosystem",
+      "icon": "fas fa-chart-bar",
+      "services": [
+        {
+          "name": "Power BI Implementation",
+          "description": "End-to-end BI solutions"
+        },
+        {
+          "name": "Data Modeling & Architecture",
+          "description": "Optimized for performance"
+        },
+        {
+          "name": "Training & Knowledge Transfer",
+          "description": "Empower your team"
+        },
+        {
+          "name": "SSAS Development",
+          "description": "Advanced analytical services"
+        }
+      ],
+      "technologies": [
+        "Power BI Premium/Pro",
+        "Power Query",
+        "DAX",
+        "SQL Server Analysis Services",
+        "Azure Synapse Analytics"
+      ]
+    }
+  ]
+}

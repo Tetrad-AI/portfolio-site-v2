@@ -1,0 +1,26 @@
+{
+  "title": "Tetrad Family Culture",
+  "subtitle": "Our Constellation of Values",
+  "description": "At Tetrad AI, we believe in the power of collaboration, innovation, and continuous learning. Like stars in a constellation, each team member brings unique brilliance while contributing to our collective success.",
+  "teamPhoto": "/images/team/team.jpg",
+  "values": [
+    {
+      "id": "collaboration",
+      "title": "Stellar Collaboration",
+      "description": "We work together as one unified constellation, where every voice matters and collective wisdom guides our journey through the data universe.",
+      "icon": "fas fa-users"
+    },
+    {
+      "id": "innovation",
+      "title": "Cosmic Innovation",
+      "description": "We push the boundaries of what's possible, exploring new frontiers in AI and data science to create solutions that transform industries.",
+      "icon": "fas fa-lightbulb"
+    },
+    {
+      "id": "learning",
+      "title": "Continuous Evolution",
+      "description": "Like the ever-expanding universe, we embrace continuous learning and growth, staying at the forefront of technological advancement.",
+      "icon": "fas fa-graduation-cap"
+    }
+  ]
+}

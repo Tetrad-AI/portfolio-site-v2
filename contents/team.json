@@ -1,0 +1,42 @@
+{
+  "title": "Who We Are",
+  "description": "Meet the expert team driving Tetrad AI's success.",
+  "members": [
+    {
+      "id": "rasitha",
+      "name": "Rasitha Liyanage",
+      "position": "Data Enthusiast | Tech Lead",
+      "specialization": "Specialized in Data Engineering, Analytics Engineering, Power BI/SSAS",
+      "bio": "Tech Lead with 7+ years of experience in Data Engineering and Business Intelligence solutions. Rasitha specializes in data migrations, data warehousing, and Power BI architecture for enterprise clients.",
+      "linkedin": "https://www.linkedin.com/in/rasitha-liyanage/",
+      "avatar": "/images/team/rasitha.jpg"
+    },
+    {
+      "id": "rajith",
+      "name": "Rajith Lahiru",
+      "position": "Associate Data Engineer | BSc(Hons) Computer Science",
+      "specialization": "Data Pipeline Specialist",
+      "bio": "Associate Data Engineer focused on building scalable data pipelines and optimizing data workflows. Rajith brings expertise in modern data engineering tools and cloud infrastructure.",
+      "linkedin": "https://www.linkedin.com/in/rajithlahiru/",
+      "avatar": "/images/team/rajith.jpg"
+    },
+    {
+      "id": "kasun",
+      "name": "Kasun Dulara",
+      "position": "AI Enthusiast | BSc(Hons) Data Science",
+      "specialization": "AI Solutions Architect",
+      "bio": "AI Solutions Architect with 5 years of experience in AI and software development. Kasun specializes in building intelligent systems and deploying AI agents for business automation.",
+      "linkedin": "https://www.linkedin.com/in/kasundularaam/",
+      "avatar": "/images/team/kasun.jpg"
+    },
+    {
+      "id": "naveen",
+      "name": "Naveen Prabodha",
+      "position": "Data Analyst | BSc(Hons) Data Science",
+      "specialization": "Data Visualization Expert",
+      "bio": "Data Analyst specializing in advanced data visualization and pattern recognition. Naveen creates compelling dashboards and uncovers actionable insights from complex datasets.",
+      "linkedin": "https://www.linkedin.com/in/naveen-prabodha-04b952217/",
+      "avatar": "/images/team/naveen.jpg"
+    }
+  ]
+}

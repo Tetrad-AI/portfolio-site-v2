@@ -1,0 +1,48 @@
+{
+  "title": "Our Portfolio",
+  "description": "Showcasing our expertise through innovative solutions and transformative projects.",
+  "categories": [
+    {
+      "id": "ai-solutions",
+      "title": "AI Solutions",
+      "icon": "fas fa-robot",
+      "projects": [
+        {
+          "id": "vishva-ai",
+          "name": "Vishva AI",
+          "tagline": "Intelligent Customer Engagement Platform",
+          "description": "Revolutionary AI agentic chat system powering CeylonHandicraft's online marketplace. Vishva AI delivers personalized customer experiences through natural language processing and intelligent product recommendations.",
+          "technologies": ["LangChain", "RAG", "Vector DB", "FastAPI"]
+        }
+      ]
+    },
+    {
+      "id": "data-engineering",
+      "title": "Data Engineering",
+      "icon": "fas fa-cogs",
+      "projects": [
+        {
+          "id": "open-source-pipeline",
+          "name": "Open Source Data Pipeline",
+          "tagline": "Community-Driven Innovation",
+          "description": "Our contribution to the open-source community – a robust, scalable data pipeline framework that democratizes data engineering best practices for organizations of all sizes.",
+          "technologies": ["Apache Spark", "Docker", "Apache Airflow"]
+        }
+      ]
+    },
+    {
+      "id": "data-visualization",
+      "title": "Data Visualization",
+      "icon": "fas fa-chart-line",
+      "projects": [
+        {
+          "id": "hotel-dashboards",
+          "name": "Award-Winning Hotel Industry Dashboards",
+          "tagline": "Transforming Hospitality Analytics",
+          "description": "Prestigious visualization solutions for industry giants in the hotel sector. Our dashboards revolutionized how these organizations understand guest behavior, optimize operations, and drive revenue growth.",
+          "technologies": ["Power BI", "Custom Visuals", "Advanced DAX"]
+        }
+      ]
+    }
+  ]
+}
